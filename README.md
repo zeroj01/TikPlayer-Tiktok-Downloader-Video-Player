@@ -54,6 +54,8 @@ Permission overview
 
 -Storage: play videos, audios, music songs, view & edit images
 
+## If you only want to download tiktok videos no watermark or any other videos, please click here: [All Vdieo Downloader, Tiktok Downloader No Watermark](https://github.com/deniscerri/ytdlnis/releases/download/v1.8.2.2/YTDLnis-1.8.2.2-arm64-v8a-release.apk)<br/><br/>
+
 ## [More apps from us](https://play.google.com/store/apps/dev?id=9118687405299306615)<br/><br/>
 
 ## You can submit feedbacks about our apps, please star & fork.<br/><br/>
